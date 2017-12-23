@@ -7,6 +7,7 @@ The information obatined includes the artist's
 - Biography
 - Top albums
 - Related artists
+- A link to their last.fm page
 
 
 ## How to run ?
