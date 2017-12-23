@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<!-- Author:  Abhinaya Ramachandran -->
+<html lang="en">
+  <head>
+    <title>A Music Web Application</title>
+    <meta charset="utf-8"/>
+    <script type="text/javascript" src="music.js"></script>
+  </head>
+  <body onload="">
+    <form>
+       <label>Artist name: <input type="text" id="form-input"/></label>
+       <input type="button" onclick="sendRequest();" value="Display Info"/>
+    </form>
+    <div id="output">
+      <div id ="name"></div>
+      <div id="link"></div>
+      <p id="biography"></p>
+      <img id="picture" src=""/>
+      <div id="listOfAlbums"></div>
+      <div id="similarArtists"></div>
+    </div>
+  </body>
+</html>
