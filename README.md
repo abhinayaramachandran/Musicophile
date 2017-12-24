@@ -9,6 +9,9 @@ The information obatined includes the artist's
 - Related artists
 - A link to their last.fm page
 
+![alt musicophile](screenshots/musicophile1.JPG "")
+
+![alt musicophile](screenshots/musicophile2.JPG "")
 
 ## How to run ?
 
